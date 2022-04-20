@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/recording"
+        android:icon="@drawable/ic_baseline_local_phone_24"
+        android:title="Позвонить в регистратуру"
+        app:showAsAction=""
+        />
+
+</menu>
