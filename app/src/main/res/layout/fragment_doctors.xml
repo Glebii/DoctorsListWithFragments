@@ -12,5 +12,6 @@
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="0dp"
-        tools:listitem="@layout/item_doctor" />
+        tools:listitem="@layout/item_doctor" 
+        android:layout_marginBottom="?attr/actionBarSize" />
 </androidx.constraintlayout.widget.ConstraintLayout>
